@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **react, redux, javascript, typescript, react-query, nextjs**
 
-- 📫 How to reach me **akbarbobomurodov19092000@gmail.com**
+- 📫 How to reach me **dev.bobomurodov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
